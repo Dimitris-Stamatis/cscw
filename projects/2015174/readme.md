@@ -42,3 +42,19 @@ sudo nmcli dev wifi rescan // Scans for available wireless networks - Needs root
 sudo nmcli dev wifi connect <ssid> password <"password"> // Connects to the network with ssid <ssid> and a pwd "pwd"
 ```
 <a href="https://asciinema.org/a/304585" target="_blank"><img src="https://asciinema.org/a/304585.svg" /></a>
+## Άσκηση 2 - Fetch the weather forecast for your home city and one more city that you want to travel to
+### 1.1
+Χρησιμοποιώντας το εργαλείο wttr λαμβάνουμε το δελτίο καιρού για την πόλη της Πάτρας. <br>
+Commands:<br>
+```
+curl wttr.in/Patras
+```
+<a href="https://asciinema.org/a/304617" target="_blank"><img src="https://asciinema.org/a/304617.svg" /></a><br>
+### 1.2
+Με τη χρήση του ίδιου εργαλείου λαμβάνουμε το δελτίο καιρού για ένα αξιοθέατο το οποίο θέλουμε να επισκεπτούμε στην πόλη του Εδιμβούργου στη Σκωτία (Το κάστρο του Εδιμβούργου συγκεκριμένα).<br>
+Commands:<br>
+```
+curl wttr.in/~Edinburgh+Castle
+```
+<a href="https://asciinema.org/a/aAouqLKpu1J2K1kxiVs8x9DCQ" target="_blank"><img src="https://asciinema.org/a/aAouqLKpu1J2K1kxiVs8x9DCQ.svg" /></a><br>
+
