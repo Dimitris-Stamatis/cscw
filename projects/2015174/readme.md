@@ -73,3 +73,7 @@ instantnews -n cnbc // Show the news' titles from the cnbc channel
 <a href="https://asciinema.org/a/vTcm6Wh04nojUCVUL6Jp7xyov" target="_blank"><img src="https://asciinema.org/a/vTcm6Wh04nojUCVUL6Jp7xyov.svg" /></a><br>
 
 
+## Άσκηση 4 - Use your favorite text-based browser to retrieve information from the web
+### 4.1
+Για αυτήν την άσκηση χρησιμοποίησα το εργαλείο links ώστε να πλοηγηθώ στην ιστοσελίδα της Wikipedia και συγκεκριμένα στη σελίδα που μιλάει για το εργαλείο links. Χρησιμοποίησα keyboard shortcuts για να κάνω scroll στη σελίδα και arrow keys για να επιλέξω τα links που ήθελα να clickαρω. Στη συνέχεια θέλησα να δω αν αυτή η σελίδα έχει download link για το links. Χρησιμοποιώντας το αντίστοιχο shortcut έκανα εύρεση για τον όρο "download" και στη συνέχεια μεταφέρθηκα στο index των διαθέσιμων αρχείων λήψης του links. Επέλεξα την πιο πρόσφατη έκδοση και κατέβασα το αρχείο.<br>
+<a href="https://asciinema.org/a/SkzvmVymzDJlIp0DQT7ALzILn" target="_blank"><img src="https://asciinema.org/a/SkzvmVymzDJlIp0DQT7ALzILn.svg" /></a><br>
