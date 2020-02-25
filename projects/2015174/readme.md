@@ -34,5 +34,11 @@ network={ # Τα στοιχεία του δικτύου στο οποίο θέλ
 }
 ```
 ### 1.2
-Μέσω του εργαλείου nmcli (Network-Manager Command-Line Interface) εμφανζίζουμε μια λίστα με τα διαθέσιμα ασύρματα δίκτυα και συνδεόμαστε σε ένα από αυτά.
+Μέσω του εργαλείου nmcli (Network-Manager Command-Line Interface) εμφανζίζουμε μια λίστα με τα διαθέσιμα ασύρματα δίκτυα και συνδεόμαστε σε ένα από αυτά.<br>
+Commands:<br>
+```
+nmcli dev wifi list // Shows a list of all scanned and available wireless networks usign the wifi device (wlan0 in my case)
+sudo nmcli dev wifi rescan // Scans for available wireless networks - Needs root privileges)
+sudo nmcli dev wifi connect <ssid> password <"password"> // Connects to the network with ssid <ssid> and a pwd "pwd"
+```
 <a href="https://asciinema.org/a/304585" target="_blank"><img src="https://asciinema.org/a/304585.svg" /></a>
