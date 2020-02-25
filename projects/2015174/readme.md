@@ -41,7 +41,7 @@ nmcli dev wifi list // Shows a list of all scanned and available wireless networ
 sudo nmcli dev wifi rescan // Scans for available wireless networks - Needs root privileges)
 sudo nmcli dev wifi connect <ssid> password <"password"> // Connects to the network with ssid <ssid> and a pwd "pwd"
 ```
-<a href="https://asciinema.org/a/304585" target="_blank"><img src="https://asciinema.org/a/304585.svg" /></a>
+<a href="https://asciinema.org/a/CmYgSFE25eamKYCX83zzzwqXs" target="_blank"><img src="https://asciinema.org/a/CmYgSFE25eamKYCX83zzzwqXs.svg" /></a><br>
 ## Άσκηση 2 - Fetch the weather forecast for your home city and one more city that you want to travel to
 ### 2.1
 Χρησιμοποιώντας το εργαλείο wttr λαμβάνουμε το δελτίο καιρού για την πόλη της Πάτρας. <br>
