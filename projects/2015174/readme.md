@@ -49,14 +49,14 @@ Commands:<br>
 ```
 curl wttr.in/Patras
 ```
-<a href="https://asciinema.org/a/304617" target="_blank"><img src="https://asciinema.org/a/304617.svg" /></a><br>
+<a href="https://asciinema.org/a/u8bHN2AFpE9vqJFV4aChRk4Zr" target="_blank"><img src="https://asciinema.org/a/u8bHN2AFpE9vqJFV4aChRk4Zr.svg" /></a><br>
 ### 2.2
 Με τη χρήση του ίδιου εργαλείου λαμβάνουμε το δελτίο καιρού για ένα αξιοθέατο το οποίο θέλουμε να επισκεπτούμε στην πόλη του Εδιμβούργου στη Σκωτία (Το κάστρο του Εδιμβούργου συγκεκριμένα).<br>
 Commands:<br>
 ```
 curl wttr.in/~Edinburgh+Castle
 ```
-<a href="https://asciinema.org/a/aAouqLKpu1J2K1kxiVs8x9DCQ" target="_blank"><img src="https://asciinema.org/a/aAouqLKpu1J2K1kxiVs8x9DCQ.svg" /></a><br>
+<a href="https://asciinema.org/a/sPASOgWB3gWyNX8n639P8q1bQ" target="_blank"><img src="https://asciinema.org/a/sPASOgWB3gWyNX8n639P8q1bQ.svg" /></a><br>
 
 ## Άσκηση 3 - Read the business news
 ### 3.1
@@ -67,9 +67,9 @@ instantnews -s business // Show Category
 instantnews -n cnbc // Show the news' titles from the cnbc channel
 ```
 Όταν όμως το έτρεξα υπήρξε ένα πρόβλημα κωδικοποίησης λόγω της χρήσης ascii από το σύστημα όπως φαίνεται στο παρακάτω demo<br>
-<a href="https://asciinema.org/a/PPpdD5ZrJjpaSrenMU154S9qR" target="_blank"><img src="https://asciinema.org/a/PPpdD5ZrJjpaSrenMU154S9qR.svg" /></a><br>
+<a href="https://asciinema.org/a/dokdjEiI9KhnAN2w9mQkFnvRD" target="_blank"><img src="https://asciinema.org/a/dokdjEiI9KhnAN2w9mQkFnvRD.svg" /></a><br>
 
 Αυτό το πρόβλημα αντιμετωπίστηκε εύκολα με ένα γρήγορο ψάξιμο στα issues του αποθετηρίου του εργαλείου. Επεξεργάστηκα το source code της εφαρμογής ώστε να χρησιμοποιεί utf-8 κωδικοποίηση αντί για ascii και το πρόβλημα λύθηκε αμέσως. Η επίλυση του παραπάνω προβλήματος φαίνεται στο παρακάτω demo.<br>
-<a href="https://asciinema.org/a/4A44y2M8Webhs71mBvbNMilY8" target="_blank"><img src="https://asciinema.org/a/4A44y2M8Webhs71mBvbNMilY8.svg" /></a><br>
+<a href="https://asciinema.org/a/vTcm6Wh04nojUCVUL6Jp7xyov" target="_blank"><img src="https://asciinema.org/a/vTcm6Wh04nojUCVUL6Jp7xyov.svg" /></a><br>
 
 
