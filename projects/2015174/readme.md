@@ -35,3 +35,4 @@ network={ # Τα στοιχεία του δικτύου στο οποίο θέλ
 ```
 ### 1.2
 Μέσω του εργαλείου nmcli (Network-Manager Command-Line Interface) εμφανζίζουμε μια λίστα με τα διαθέσιμα ασύρματα δίκτυα και συνδεόμαστε σε ένα από αυτά.
+<a href="https://asciinema.org/a/304585" target="_blank"><img src="https://asciinema.org/a/304585.svg" /></a>
