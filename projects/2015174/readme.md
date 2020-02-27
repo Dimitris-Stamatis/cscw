@@ -67,10 +67,10 @@ instantnews -s business // Show Category
 instantnews -n cnbc // Show the news' titles from the cnbc channel
 ```
 Όταν όμως το έτρεξα υπήρξε ένα πρόβλημα κωδικοποίησης λόγω της χρήσης ascii από το σύστημα όπως φαίνεται στο παρακάτω demo<br>
-<a href="https://asciinema.org/a/dokdjEiI9KhnAN2w9mQkFnvRD" target="_blank"><img src="https://asciinema.org/a/dokdjEiI9KhnAN2w9mQkFnvRD.svg" /></a><br>
+<a href="https://asciinema.org/a/DrYGZ3NRtAl4fLBpTx97bYZvH" target="_blank"><img src="https://asciinema.org/a/DrYGZ3NRtAl4fLBpTx97bYZvH.svg" /></a><br>
 
 Αυτό το πρόβλημα αντιμετωπίστηκε εύκολα με ένα γρήγορο ψάξιμο στα [issues](https://github.com/shivam043/instantnews/issues/19) του αποθετηρίου του εργαλείου. Επεξεργάστηκα το source code της εφαρμογής ώστε να χρησιμοποιεί utf-8 κωδικοποίηση αντί για ascii και το πρόβλημα λύθηκε αμέσως. Η επίλυση του παραπάνω προβλήματος φαίνεται στο παρακάτω demo.<br>
-<a href="https://asciinema.org/a/vTcm6Wh04nojUCVUL6Jp7xyov" target="_blank"><img src="https://asciinema.org/a/vTcm6Wh04nojUCVUL6Jp7xyov.svg" /></a><br>
+<a href="https://asciinema.org/a/gMF0GgTUiwkcaYhumRsQNNlPK" target="_blank"><img src="https://asciinema.org/a/gMF0GgTUiwkcaYhumRsQNNlPK.svg" /></a><br>
 
 
 ## Άσκηση 4 - Use your favorite text-based browser to retrieve information from the web
